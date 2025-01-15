@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import { personajes } from '@/db/db.js';
+import { personajes } from '@/db/db.js'
 export default {
   name: 'VistaPersonajes',
   data() {
